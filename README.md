@@ -1,2 +1,1 @@
-# yamanclaruswway.github.io
-Clarusway Landing Page
+https://yaman35.github.io/yamanclaruswway.github.io/
